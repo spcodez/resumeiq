@@ -148,7 +148,7 @@ via `OPENAI_API_KEY` for more nuanced, generative scoring when needed.
 
 
 
-##SCREENSHOTS OF PROJECT 
+## SCREENSHOTS OF PROJECT 
 
 ![alt text](<Screenshot 2026-07-12 123510.png>)
 
