@@ -145,3 +145,11 @@ requirements.txt
 These are transparent, explainable heuristics by design (matching the deck's
 "explainable, not a black box" principle on slide 9) - swap in the LLM path
 via `OPENAI_API_KEY` for more nuanced, generative scoring when needed.
+
+
+
+##SCREENSHOTS OF PROJECT 
+
+![alt text](<Screenshot 2026-07-12 123510.png>)
+
+![alt text](<Screenshot 2026-07-12 123510-1.png>)
