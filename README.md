@@ -1,10 +1,9 @@
 # ResumeIQ - AI Resume Analyzer & Career Copilot
 
 A Python implementation of the ResumeIQ pipeline: instant ATS scoring, job
-match intelligence, AI cover letters, and interview prep - built from the
-`ResumeIQ-Project-Presentation.pptx` spec.
+match intelligence, AI cover letters, and interview prep.
 
-## Pipeline (matches the presentation's architecture)
+## Pipeline 
 
 ```
 Resume (PDF/DOCX/TXT)
@@ -29,10 +28,6 @@ Resume (PDF/DOCX/TXT)
 6. One-Click PDF Report   resumeiq/report.py       (reportlab)
 ```
 
-Every stage runs **fully offline** with rule-based NLP + scikit-learn. If you
-set `OPENAI_API_KEY`, extraction / cover letters / interview questions
-automatically upgrade to LLM-generated output (matching the deck's
-"OpenAI GPT-4o-mini / Gemini 1.5 fallback" stack) - no code changes needed.
 
 ## Install
 
@@ -47,7 +42,6 @@ description, and get the same pipeline (scores, job match, cover letter,
 interview prep, PDF download) with no command-line usage required.
 
 ```bash
-pip install -r requirements.txt
 streamlit run app.py
 ```
 
