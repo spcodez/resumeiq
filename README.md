@@ -150,6 +150,12 @@ via `OPENAI_API_KEY` for more nuanced, generative scoring when needed.
 
 ## SCREENSHOTS OF PROJECT 
 
-![alt text](<Screenshot 2026-07-12 123510.png>)
+ HOMEPAGE 
 
-![alt text](<Screenshot 2026-07-12 123510-1.png>)
+![alt text](<Screenshot 2026-07-12 123325.png>)
+
+ OVERVIEW
+
+![alt text](<Screenshot 2026-07-12 125338.png>)
+
+![alt text](<Screenshot 2026-07-12 123510.png>)
