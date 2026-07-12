@@ -16,16 +16,7 @@ import tempfile
 import pandas as pd
 import streamlit as st
 
-from resumeiq import (
-    parse_resume_file,
-    parse_resume_text,
-    extract_structured_data,
-    score_resume,
-    match_job,
-    generate_cover_letter,
-    generate_interview_questions,
-    build_pdf_report,
-)
+
 
 st.set_page_config(
     page_title="ResumeIQ - AI Resume Analyzer",
